@@ -12,13 +12,13 @@ Nesta página serão disponibilizadas informações e materiais das Unidades Cur
 <div class="card">
 <h3>Equações Diferenciais I (ED I)</h3>
 <p>Equações diferenciais ordinárias de primeira ordem e equações diferenciais ordinárias de segunda ordem com coeficientes constantes.</p>
-<p><a href="https://github.com/wrpconti/ed-i">Acessar UC</a></p>
+<p><a href="https://wrpconti.github.io/ed-i/">Acessar UC</a></p>
 </div>
 
 <div class="card">
 <h3>Fenômenos Eletromagnéticos (FE)</h3>
 <p>O módulo contempla a quantização da carga, descrição matemática de  força eletrostática, campo e potencial elétrico, capacitância, campo magnético, indução eletromagnética e leis de Maxwell.</p>
-<p><a href="https://github.com/wrpconti/fe">Acessar UC</a></p>
+<p><a href="https://wrpconti.github.io/fe/">Acessar UC</a></p>
 </div>
 
 </div>
